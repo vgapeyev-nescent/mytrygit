@@ -1,0 +1,2 @@
+Some text to distinguish this from the deleted world.txt, 
+so that git does not imagine this was a renaming. 
